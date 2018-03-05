@@ -12,11 +12,11 @@ uses and contributes to Open Source software.
     :target: https://coveralls.io/r/smartfile/python-librsync
     :alt: Code Coverage
 
-.. image:: https://pypip.in/v/python-librsync/badge.png
+.. image:: https://img.shields.io/pypi/v/python-librsync.svg
     :target: https://crate.io/packages/python-librsync/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/python-librsync/badge.png
+.. image:: https://img.shields.io/pypi/dm/python-librsync.svg
     :target: https://crate.io/packages/python-librsync/
     :alt: Number of PyPI downloads
 
